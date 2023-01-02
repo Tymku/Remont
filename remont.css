@@ -1,0 +1,41 @@
+#baner
+{
+	background-color: #ffd5a2;
+	text-align: center;
+	padding: 20px;
+}
+#blok_główny
+{
+	height: 400px;
+}
+#stopka
+{
+	background-color: #c07111;
+	color: white;
+	text-align: right;
+	font-size: 150%;
+	margin-bottom: 0px;
+	margin-top: 22rem;
+}
+.blok_menu
+{
+	background-color: #c07111;
+	color: white;
+	text-align: center;
+	font-size: 150%;
+	width: 25%;
+	float: left;
+}
+a
+{
+	color: white;
+}
+.upper
+{
+	vertical-align: super;
+	font-size: smaller;
+}
+.input1
+{
+	width: 35px;
+}
